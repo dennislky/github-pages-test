@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/github-pages-test/static/css/main.e6c13ad2.css",
-    "main.js": "/github-pages-test/static/js/main.61a6ed57.js",
-    "static/js/759.613eb3e8.chunk.js": "/github-pages-test/static/js/759.613eb3e8.chunk.js",
+    "main.js": "/github-pages-test/static/js/main.1b925714.js",
+    "static/js/759.eca04227.chunk.js": "/github-pages-test/static/js/759.eca04227.chunk.js",
     "static/css/826.255c6e74.chunk.css": "/github-pages-test/static/css/826.255c6e74.chunk.css",
     "static/js/826.7b473ab8.chunk.js": "/github-pages-test/static/js/826.7b473ab8.chunk.js",
     "static/css/435.255c6e74.chunk.css": "/github-pages-test/static/css/435.255c6e74.chunk.css",
-    "static/js/435.8ee95cc7.chunk.js": "/github-pages-test/static/js/435.8ee95cc7.chunk.js",
+    "static/js/435.62191c3c.chunk.js": "/github-pages-test/static/js/435.62191c3c.chunk.js",
     "static/js/787.e48f5970.chunk.js": "/github-pages-test/static/js/787.e48f5970.chunk.js",
     "static/js/201.957ac269.chunk.js": "/github-pages-test/static/js/201.957ac269.chunk.js",
     "static/js/943.630f10f0.chunk.js": "/github-pages-test/static/js/943.630f10f0.chunk.js",
     "index.html": "/github-pages-test/index.html",
     "main.e6c13ad2.css.map": "/github-pages-test/static/css/main.e6c13ad2.css.map",
-    "main.61a6ed57.js.map": "/github-pages-test/static/js/main.61a6ed57.js.map",
-    "759.613eb3e8.chunk.js.map": "/github-pages-test/static/js/759.613eb3e8.chunk.js.map",
+    "main.1b925714.js.map": "/github-pages-test/static/js/main.1b925714.js.map",
+    "759.eca04227.chunk.js.map": "/github-pages-test/static/js/759.eca04227.chunk.js.map",
     "826.255c6e74.chunk.css.map": "/github-pages-test/static/css/826.255c6e74.chunk.css.map",
     "826.7b473ab8.chunk.js.map": "/github-pages-test/static/js/826.7b473ab8.chunk.js.map",
     "435.255c6e74.chunk.css.map": "/github-pages-test/static/css/435.255c6e74.chunk.css.map",
-    "435.8ee95cc7.chunk.js.map": "/github-pages-test/static/js/435.8ee95cc7.chunk.js.map",
+    "435.62191c3c.chunk.js.map": "/github-pages-test/static/js/435.62191c3c.chunk.js.map",
     "787.e48f5970.chunk.js.map": "/github-pages-test/static/js/787.e48f5970.chunk.js.map",
     "201.957ac269.chunk.js.map": "/github-pages-test/static/js/201.957ac269.chunk.js.map",
     "943.630f10f0.chunk.js.map": "/github-pages-test/static/js/943.630f10f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.61a6ed57.js"
+    "static/js/main.1b925714.js"
   ]
 }
